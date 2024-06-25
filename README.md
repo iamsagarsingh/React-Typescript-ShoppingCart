@@ -27,8 +27,8 @@ To get started with the project, follow these steps:
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/yourusername/shopping-cart-app.git
-    cd shopping-cart-app
+    git clone "https://github.com/iamsagarsingh/React-Typescript-ShoppingCart.git"
+    cd React-Typescript-ShoppingCart
     ```
 
 2. **Install dependencies:**
